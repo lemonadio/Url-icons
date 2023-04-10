@@ -3,11 +3,11 @@ The CSS snippet of Obsidian.
 > readme-version1.1.0
 > 
 > This CSS snippet(version1.1) rewritten with Obsidian1.1.16 by [Lemonadio](https://github.com/lemonadio) was based on the CSS snippet in Blue topaz theme written by Cuman.
-> [Click me to check the latest example url](https://github.comcumanyBlue-topaz-examples)
+> [Click me to check the latest example url](https://github.com/cumany/Blue-topaz-examples)
 > 
 > Resources to help with icons:
-> [Search for icons](https://iconify.designicon-sets)
-> [Convert the SVG code into CSS ready code](https://yoksel.github.iourl-encoder)
+> [Search for icons](https://iconify.design/icon-sets)
+> [Convert the SVG code into CSS ready code](https://yoksel.github.io/url-encoder)
 
 **************************************************
 ## Preface:
