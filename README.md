@@ -22,6 +22,10 @@ I hope someone who understands CSS can give me some advice:p
 (Personally, I think light mode looks better, hahaha)
 
 **************************************************
+## proview:
+![image](https://user-images.githubusercontent.com/113871946/230942661-942652cf-5c02-468a-aae0-a9b8e6e7d80f.png)
+
+**************************************************
 ## Customizable browser icons:
 /*----Add your browser icons here:----*/
 - [x] *origin style browser icons*
