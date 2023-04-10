@@ -12,14 +12,23 @@ The CSS snippet of Obsidian.
 **************************************************
 ## Preface:
 This CSS snippet has light mode and dark mode, which will show the icons in reading mode.
-For showing the icons correctly ,HTMLs in markdown need to add `https://` before url.
-If you have any question,please email to:lemonadio0507@gmail.com, and write *Icon plugin's bug feedback*
-If you want some new icons to add in, or you have any advice, please email to the above address,and write *Icon plugin's advice feedback*
+
+For showing the icons correctly, HTMLs in markdown need to add `https://` before url.
+
+If you have any question, please email to: lemonadio0507@gmail.com, and write *Icon plugin's bug feedback*
+
+If you want some new icons to add in, or you have any advice, please email to the above address, and write *Icon plugin's advice feedback*
+
+
 
 p.s.
-I don't know how to combine two modes into one CSS snippet,so I separated them.
+
+I don't know how to combine two modes into one CSS snippet, so I separated them.
+
 I hope someone who understands CSS can give me some advice:p
+
 (Personally, I think light mode looks better, hahaha)
+
 
 **************************************************
 ## Proview(A part of all):
@@ -37,6 +46,7 @@ I hope someone who understands CSS can give me some advice:p
 - [x] *Edge style browser icons*
 
 If you want to use some style browser icon, paste the css snippet to bottom of their CSSs.
+
 (This origin style is *Edge style browser icons*)
 
 **************************************************
@@ -114,7 +124,7 @@ If you want to use some style browser icon, paste the css snippet to bottom of t
 	- Huaban
 	- QQzone
 - Revise Readme
-- add Creator GitHub link;)
+- add Creator GitHub link ;)
 ---
 2023/4/8  1.0.1
 - Translate Readme into English;
