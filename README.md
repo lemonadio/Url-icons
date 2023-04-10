@@ -50,7 +50,7 @@ If you want to use some style browser icon, paste the css snippet to bottom of t
 (This origin style is *Edge style browser icons*)
 
 **************************************************
-## Customizable site icons (total 48):
+## Customizable site icons (total 52):
 /*----Add your site icons here:----*/
 - [x] [*ALiYun*](http://www.aliyun.com)
 - [x] [*ALiYun Drive*](https://www.aliyundrive.com/)
