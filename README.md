@@ -22,7 +22,7 @@ I hope someone who understands CSS can give me some advice:p
 (Personally, I think light mode looks better, hahaha)
 
 **************************************************
-## Proview(a part of all):
+## Proview(A part of all):
 ![image](https://user-images.githubusercontent.com/113871946/230942661-942652cf-5c02-468a-aae0-a9b8e6e7d80f.png)
 
 **************************************************
