@@ -6,7 +6,7 @@ The CSS snippet of Obsidian.
 > [Click me to check the latest example url](https://github.com/cumany/Blue-topaz-examples)
 > 
 > Resources to help with icons:
-> [Search for icons](https://iconify.design/icon-sets);
+> [Search for icons](https://iconify.design/icon-sets); 
 > [Convert the SVG code into CSS ready code](https://yoksel.github.io/url-encoder)
 
 **************************************************
